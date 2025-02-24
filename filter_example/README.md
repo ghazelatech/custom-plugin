@@ -88,4 +88,3 @@ The plugin's code is at the [filter_plugins/list_users.py](filter_plugins/list_u
 
 The name of the file doesn't need to be the same of the plugin, it can be anything. But the directory **must** be named `filter_plugins` in order to be found by Ansible.
 
-This example and the test to check the vadility of the results are borrowed from [this article](https://darecode.com/en/blog/how-to-control-our-ansible-repository-with-filters/).
